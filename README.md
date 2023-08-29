@@ -1,11 +1,11 @@
 # Perfect_Matchups
 
-Find the best performing team composition against the other teams. You are however dealing with a large amount of tournament results. Unlike other competitors, you are able to process this data efficiently using sorting algorithms (counting and radix)
+Using counting and radix sort to find the best composition between each team
 
 ## Input
 
-The past tournament data results is presented as a list of lists.The inner list can be
-described as [team1, team2, score] where:
+The matches's data is presented as a list of lists.The inner list can be
+described as [t1, t2, score] where:
 <p>The first match of result in the example is ['EAE', 'BCA', 85], which means that: <br>
 - A team of 1 A character and 2 E characters (AEE)
 has a score of 85 against
