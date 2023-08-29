@@ -14,13 +14,6 @@ a team of 1 A character, 1 B character and 1 C character (ABC). <br>
 has a score of 15 against
 a team of 1 A character and 2 E characters (AEE). </p>
 
-## Output
-1. top10matches is a list of 10 matches with the highest score.
-2. searchedmatches is a list of matches with the same score as score.
-<blockquote>
-   a. The returned matches are sorted rstly in ascending lexicographical order for team1, and secondly in ascending lexicographical order for team2 (where team1 is the same). <br>
-  b. If there are matches between the same teams, only one of the matches would be
-included.  <br>
-  c . If the score is not found, then return the matches with the closest score which is
-higher. If there are no matches with a higher score, then return an empty list.
+## Outpu
+- Top 10 best matches and matches similar to the scores that we searches for
 </blockquote>
