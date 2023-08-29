@@ -1,4 +1,4 @@
-# Perfect_Matchups
+# Using sorting algorithms to find the best matches
 
 Using counting and radix sort to find the best composition between each team
 
